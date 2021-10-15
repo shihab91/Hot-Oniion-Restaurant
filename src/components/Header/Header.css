@@ -1,0 +1,46 @@
+.header {
+  padding: 15px 0;
+  background: rgb(246, 246, 246);
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  box-shadow: none;
+  border: 2px solid #f22c53;
+}
+.logo {
+  width: 150px;
+}
+.links {
+  flex-grow: 0 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signup-button {
+  background-color: #f22c53;
+  border: none;
+  outline: none;
+  padding: 7px 23px;
+  border-radius: 30px;
+  color: white;
+  font-weight: 500;
+}
+.login {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  font-weight: 600;
+  margin-right: 30px;
+}
+.cart-icon {
+  color: black;
+  font-size: 22px;
+  text-decoration: none;
+  margin-right: 30px;
+  width: fit-content;
+}
+.cart-icon:hover,
+.login:hover {
+  color: black;
+}

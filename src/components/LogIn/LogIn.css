@@ -1,0 +1,20 @@
+.sign-in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  column-gap: 20px;
+}
+.item {
+  margin: 15px 0;
+  width: 380px;
+  padding: 15px;
+  outline: none;
+  border: none;
+  background: rgb(239, 239, 239);
+  border-radius: 5px;
+}
+.sign-in-btn {
+  background: #f22c53;
+  color: #fff;
+}

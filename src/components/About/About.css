@@ -1,0 +1,20 @@
+.about-text {
+  width: 700px;
+  text-align: left;
+}
+.about-card {
+  border: none !important;
+}
+.card-bottom {
+  display: flex;
+  justify-content: center;
+}
+.card-text {
+  text-align: left !important;
+}
+.card-icon {
+  margin-top: 35px;
+}
+.see-more {
+  cursor: pointer;
+}
